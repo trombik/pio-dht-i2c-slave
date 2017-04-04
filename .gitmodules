@@ -1,0 +1,3 @@
+[submodule "lib/TinyDHT"]
+	path = lib/TinyDHT
+	url = https://github.com/adafruit/TinyDHT.git
